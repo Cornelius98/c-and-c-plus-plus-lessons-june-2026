@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1781802489 source:c:\users\theec\onedrive\documents\c\c-and-c-plus-plus-lessons-june-2026\calculator-user-input\main.c
+	<stdio.h>
+	<stdlib.h>
+
